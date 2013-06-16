@@ -8,8 +8,4 @@ simpler organism such as C. elegans, is the fact that Drosophila has a variety
  of complex, interesting features lacking in simpler organisms. These include 
 segmentation, a tripartite brain, sensory appartus, etc.
 
-One aspect of Drosophila development that has come under particular scrutiny
- is embryonic development. This likely has something to do with the fact
-that embryonic development is a good palce to ask a pretty fundamental
-question: how do you get a single celled zygote to a mass of cells with
-some sort of pattern, or organization?
+One aspect of Drosophila development that has come under particular scrutiny is embryonic development. This likely has something to do with the fact that embryonic development is a good palce to ask a pretty fundamental question: how do you get from a single celled zygote to a mass of cells with some sort of pattern, or organization?
