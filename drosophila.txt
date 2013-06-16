@@ -2,3 +2,5 @@ Drosophila melanogaster is a small, winged insect popular in genetic research.
 It is one of the most divergent Drosophilids, which can be an issue because it
 is sometimes unclear how generlizable features of Drosophila genetics are to
 other species of flies, much less other organisms.
+
+One of the reasons you might want to study Drosophila, as opposed to, say a simpler organism such as C. elegans, is the fact that Drosophila has a variety of complex, interesting features lacking in simpler organisms. These include segmentation, a tripartite brain, sensory appartus, etc.
