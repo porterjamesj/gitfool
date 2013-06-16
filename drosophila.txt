@@ -1,0 +1,4 @@
+Drosophila melanogaster is a small, winged insect popular in genetic research.
+It is one of the most divergent Drosophilids, which can be an issue because it
+is sometimes unclear how generlizable features of Drosophila genetics are to
+other species of flies, much less other organisms.
